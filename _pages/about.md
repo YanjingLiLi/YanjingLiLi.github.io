@@ -16,8 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I have a broad interest in AI for Drug Discovery/Biology/Chemistry.
-
+I am a Ph.D. student in Computer Science at the University of Washington, advised by Prof. David Baker at the Institute for Protein Design. My research focuses on AI for protein design, with broader interests in AI for drug discovery, biology, and chemistry.
 
 I have been worked in the AI for Science lab at the California Institute of Technology with [Prof. Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) and [Dr. Shengchao Liu](https://chao1224.github.io/) on molecule geometry learning. I also have a close collaboration with [Prof. Hongyu Guo](https://uniweb.uottawa.ca/members/4499/profile?embed=2) from the University of Ottawa and NRC Canada.
 I obtained my Master's degree in Computational Biology from [Carnegie Mellon University](https://www.cmu.edu/) in 2023. During my time at CMU, I worked with [Prof. Hosein Mohimani](https://cbd.cmu.edu/people/mohimani.html) in natural antibiotics prediction from microbial genome. Meanwhile, I worked with [Prof. David Ryan Koes](https://www.csb.pitt.edu/people/faculty/david-koes/) and Ph.D. student [Andrew McNutt](https://drewnutt.github.io/) from the [University of Pittsburgh](https://www.pitt.edu/) on deep-learning-based knowledge distillation for a protein-ligand docking tool [GNINA](https://github.com/gnina/gnina). These experiences initialized my interest in computational drug design.
