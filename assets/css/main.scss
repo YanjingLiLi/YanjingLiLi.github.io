@@ -18,3 +18,14 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+
+.profile {
+  width: 40% !important; 
+  margin-left: 2rem;
+  
+  img {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 8px; 
+  }
+}
